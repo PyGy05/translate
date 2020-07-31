@@ -1,0 +1,10 @@
+
+Hi my name is Elizabeth 
+
+Project Translator. 
+
+
+
+Translate this into Chinese.
+
+Python build tool that allows us to run a command that reads the files then translates it to us in Chinese.
